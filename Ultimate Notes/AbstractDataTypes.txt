@@ -1,0 +1,18 @@
+Abstract Data types
+
+Name:
+    Attributes
+        First name, middle name, last name
+    Behaviors:
+        First-middle-last
+        Last-first-middle
+        Initials
+
+
+Class/Object
+
+Class = deifination of a ADT in a programming language
+
+Objects = instance of a class
+
+aName = Name('John', 'Doe')
