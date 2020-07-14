@@ -15,4 +15,6 @@ class Person:
         
 person1 = Person('Jane Doe', 'F',23)
 person2 = Person('Bob Smith','M',55)
-print('Person 1: ' + str(person1))           
+# print('person1: ')
+person1.changeAge()
+print("Person 1: " + str(person1))
